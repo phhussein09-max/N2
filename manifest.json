@@ -1,0 +1,14 @@
+{
+  "name": "مدير الصيدلية برو",
+  "short_name": "Pharmacy Pro",
+  "description": "تطبيق متكامل لإدارة أدوية الصيدلية مع دعم الباركود والإشعارات والنسخ الاحتياطي",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2c7da0",
+  "background_color": "#ffffff",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "portrait-primary",
+  "categories": ["medical", "health", "productivity"],
+  "prefer_related_applications": false
+}
